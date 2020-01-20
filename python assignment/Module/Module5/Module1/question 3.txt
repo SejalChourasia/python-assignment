@@ -1,0 +1,8 @@
+r=s=t=5
+avg=(r+s+t)/3
+
+Explanation:
+step1:Put the values of r,s,t in avg.
+          () has higher precedance over /.
+           (5+5+5)/3
+step2:(15)/3=5.0

@@ -1,0 +1,32 @@
+a)a=4,b=2,x=5,y=4
+    result=5*b*b*x-3*a*y*y-8*b*b*x+10*a*y
+
+Explanation:
+step1: Put the values of a,b,xand y in the result.
+           5*2*2*5-3*4*4*4-8*2*2*5+10*4*4
+step2:5*2*2*5=100
+          3*4*4*4=192
+          8*2*2*5=160
+          10*4*4=160
+step3:100-192-160+160=-92	
+
+b)a=2,y=3,c=7
+     calc=4*a*y/c-a*y/c
+
+Explanation:
+step1:Put the values of a,cand y in the calc.
+          4*2*3/7-2*3/7
+step2:4*2*3=24
+          4*2*3/7=3.42
+          2*3=6
+          2*3/7=0.85
+          3.42-0.85=2.57
+
+c)a=4.4,b=0.0,c=4.2,y=3.0
+     ans=c+a*y*y/b
+
+Explanation:
+step1:Put the values of a,b,c in the ans.
+          ans=4.2+4.4*3.0*3.0/0.0
+step2:A value can never be divided by 0.
+Hence,it will give a division error.
