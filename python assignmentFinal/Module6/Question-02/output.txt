@@ -1,0 +1,4 @@
+office
+  medical: [{'room_no': 100, 'use': 'reception', 'sq-ft': 50, 'price': 75}, {'room_no': 101, 'use': 'waiting', 'sq-ft': 250, 'price': 75}, {'room_no': 102, 'use': 'examination', 'sq-ft': 290, 'price': 70}, {'room_no': 103, 'use': 'office', 'sq-ft': 300, 'price': 155}, {'room_no': '104', 'use': 'examination', 'sq-ft': '54', 'price': '900'}, {'room_no': '106', 'use': 'reception', 'sq-ft': '40', 'price': '34'}]
+  parking: [{'location': 'premium', 'style': 'covered', 'price': '750'}]
+
